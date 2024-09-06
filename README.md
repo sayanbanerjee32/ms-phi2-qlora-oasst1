@@ -30,8 +30,8 @@ One example conversation will look like the following
 
 ### Training Notebook
 
-Training notebook is available [here](https://github.com/sayanbanerjee32/ms-phi2-qlora-oasst1/blob/main/ms_phi2_fine_tune_q_lora.ipynb)
-Fine-tuned model is uploaded out [HuggingFace modle Hub](https://huggingface.co/sayanbanerjee32/ms-phi2-qlora-oasst1)
+Training notebook is available [here](https://github.com/sayanbanerjee32/ms-phi2-qlora-oasst1/blob/main/ms_phi2_fine_tune_q_lora.ipynb)  
+Fine-tuned model is uploaded onto [HuggingFace Modle Hub](https://huggingface.co/sayanbanerjee32/ms-phi2-qlora-oasst1)
 
 #### Q LoRA configurations
 - LoRA rank: 32
