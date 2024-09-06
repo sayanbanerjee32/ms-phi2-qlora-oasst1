@@ -31,7 +31,7 @@ One example conversation will look like the following
 ### Training Notebook
 
 Training notebook is available [here](https://github.com/sayanbanerjee32/ms-phi2-qlora-oasst1/blob/main/ms_phi2_fine_tune_q_lora.ipynb)  
-Fine-tuned model is uploaded onto [HuggingFace Modle Hub](https://huggingface.co/sayanbanerjee32/ms-phi2-qlora-oasst1)
+Fine-tuned model is uploaded onto [HuggingFace Model Hub](https://huggingface.co/sayanbanerjee32/ms-phi2-qlora-oasst1)
 
 #### Q LoRA configurations
 - LoRA rank: 32
@@ -49,10 +49,10 @@ The app is running [here](https://huggingface.co/spaces/sayanbanerjee32/askme-ms
 
 This app is a chatbot app. Last pair of messages from user and bot passed along with the current message from the user as context to the model for prediction.
 
-See scheen shots below. 
+See screen shots below. 
 After receiving the response against the first message  
 ![image](https://github.com/user-attachments/assets/beba3c59-460f-41cf-873d-8caec568c365)
 
-After receiving the response againt a follow-up message
+After receiving the response against a follow-up message
 ![image](https://github.com/user-attachments/assets/fca79952-f39c-4b89-aaf0-b50b7ceac68b)
 
